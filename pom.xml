@@ -9,9 +9,9 @@
         <version>3.5.5</version>
         <relativePath />
     </parent>
-    <groupId>com.novisign.report</groupId>
-    <artifactId>report-collector-server2</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <groupId>test1</groupId>
+    <artifactId>test1</artifactId>
+    <version>1.0</version>
 
     <properties>
         <java.version>17</java.version>
